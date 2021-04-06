@@ -55,7 +55,6 @@ function NewArticle() {
                                     <Form.File id="exampleFormControlFile1" />
                                 </Col>
                             </Form.Group>
-
                             <Button variant="primary" type="submit">
                                 Submit
                             </Button>
